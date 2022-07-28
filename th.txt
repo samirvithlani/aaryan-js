@@ -1,0 +1,24 @@
+//js --> js is client side dynamicly typed scripting lanannguage
+// browser --> 
+//dynamicly typed scripting language  ->
+//js compilers *****-> js compilers are used to convert js code to machine code engines
+
+engines
+chrome -->V8
+firefox --> SpiderMonkey -->netscape
+opera --> Rhino
+safati ->webkit
+
+versions of js
+ES5
+ES6 --> ECMAScript 6 --> ECMAScript 2015 
+
+----------------------------------------
+window
+document
+DOM --> document object model manuplation js
+------------------------------------
+inline js
+script tag
+external .js
+
