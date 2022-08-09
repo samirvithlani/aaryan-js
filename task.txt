@@ -1,0 +1,11 @@
+//sorting,searching,filter,indexof,last....
+
+1) cars -->[{},{},{}]
+id,name,color,price,makeyear,model,type
+1,"audi","black",4500000,2010,"a4","sedan"
+
+//search -->by colors
+//sort by price 
+//sort by makeyear
+//sort by model
+//search price between --> 1cr to 2cr
