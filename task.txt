@@ -9,3 +9,79 @@ id,name,color,price,makeyear,model,type
 //sort by makeyear
 //sort by model
 //search price between --> 1cr to 2cr
+-------------------------------
+
+    countries =[
+        {
+            states:[
+                {
+                    citties:[
+                        {
+
+                        },
+                        {
+
+                        }
+                    ]
+                },
+                {
+                    
+                    citties:[
+                        {
+
+                        },
+                        {
+                            
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+                states:[
+                {
+                    
+                    citties:[
+                        {
+
+                        },
+                        {
+                            
+                        }
+                    ]
+                },{
+                    
+                    citties:[
+                        {
+
+                        },
+                        {
+                            
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            states:[
+                {
+
+                },{
+                    
+                }
+            ]
+        }
+    ]
+
+
+country: name,population,state[]
+state : name, population,sport,citties
+citties : name,popultion,area,weather
+
+1)find country who is having largest population
+2)find country who is having largest population state
+3)find country who is having largest population citties
+
+4)find a country who is having hottest city
+5)find a state by it's sport (filter)
+
