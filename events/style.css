@@ -1,0 +1,18 @@
+.section{
+    padding: 0px;
+    margin: 0px;
+    background-color:cadetblue;
+    height: 100%;
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+}
+.section1{
+    padding: 0px;
+    margin: 0px;
+    background-color:brown;
+    height: 100%;
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+}
